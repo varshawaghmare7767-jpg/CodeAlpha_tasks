@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/Desktop/CodeAlpha_Student_Management",
-      "program": "c:/Users/Admin/Desktop/CodeAlpha_Student_Management/build/Debug/outDebug",
+      "cwd": "c:/Users/Admin/Desktop/CodeAlpha_CGPACalculator",
+      "program": "c:/Users/Admin/Desktop/CodeAlpha_CGPACalculator/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
